@@ -1,0 +1,8 @@
+C:\Users\Tekwan\source\repos\praktikacollection\praktikacollection\bin\Debug\praktikacollection.exe.config
+C:\Users\Tekwan\source\repos\praktikacollection\praktikacollection\bin\Debug\praktikacollection.exe
+C:\Users\Tekwan\source\repos\praktikacollection\praktikacollection\bin\Debug\praktikacollection.pdb
+C:\Users\Tekwan\source\repos\praktikacollection\praktikacollection\obj\Debug\praktikacollection.csproj.AssemblyReference.cache
+C:\Users\Tekwan\source\repos\praktikacollection\praktikacollection\obj\Debug\praktikacollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tekwan\source\repos\praktikacollection\praktikacollection\obj\Debug\praktikacollection.csproj.CoreCompileInputs.cache
+C:\Users\Tekwan\source\repos\praktikacollection\praktikacollection\obj\Debug\praktikacollection.exe
+C:\Users\Tekwan\source\repos\praktikacollection\praktikacollection\obj\Debug\praktikacollection.pdb
